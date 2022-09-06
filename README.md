@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-### I am Olex7. Developer of proggraming languages like:
+### I am Olex7. Developer of programming languages like:
 
 - Java
 - JS
