@@ -1,9 +1,10 @@
 ### Hi! 👋
 
-### I am Olex7. Developer of programming languages like:
+### I am OlexTheDev, and I am coding in
 
-- Java
-- JS
-- TS
-- py
+- C
 - C#
+- CatSharp (My own programming language)
+- Assembly (sometimes)
+- JavaScript
+- and Java
